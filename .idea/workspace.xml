@@ -1,0 +1,1426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab9dde23-7925-418c-9c75-51f71ae15e40" name="Default" comment="项目内容全部删除， 准备重新上传。">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/EChartsTheme.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/bar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/bar10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/bar12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/bar13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/bar2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/bar4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/bar7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/bar9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/bmap2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/chord1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/chord3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/dataRange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/dataRange2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/dataZoom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/dynamicPieRadar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/dynamicScatterK.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/force.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/force4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/funnel2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/gauge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/gauge1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/gauge3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/gauge5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/heatmap2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/import.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/k.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/line5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/line7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/map10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/map14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/map16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/map18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/map19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/map20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/map4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/map6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/map8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/mix1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/mix10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/mix12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/mix3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/mix6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/mix8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/pie1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/pie3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/pie5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/radar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/radar3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/scatter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/scatter1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/scatter6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/tree2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/treemap.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/treemap1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/webkit-dep2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/img/example/wormhole.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/img/bigData.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/img/big_load.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/img/echarts_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/img/fork.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/img/iconBarChart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/img/iconDataView.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/img/iconDataZoom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/img/iconDataZoomReset.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/img/iconLineChart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/img/iconStack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/img/tableau.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/img/usage1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/img/usage2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/lib/font/league_gothic-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/lib/font/league_gothic-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/lib/font/league_gothic-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_chm.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_default.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_doc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_exe.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_jpg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_mp3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_mv.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_pdf.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_ppt.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_psd.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_rar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_txt.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_xls.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/images/alignicon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/images/alignicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/images/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/images/file-icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/images/file-icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/images/icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/images/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/images/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/images/progress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/images/success.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/images/success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/charts/images/charts0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/charts/images/charts1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/charts/images/charts2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/charts/images/charts3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/charts/images/charts4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/charts/images/charts5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/emotion/images/0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/emotion/images/bface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/emotion/images/cface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/emotion/images/fface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/emotion/images/jxface2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/emotion/images/neweditor-tab-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/emotion/images/tface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/emotion/images/wface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/emotion/images/yface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/image/images/alignicon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/image/images/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/image/images/icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/image/images/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/image/images/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/image/images/progress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/image/images/success.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/image/images/success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/scrawl/images/addimg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/scrawl/images/brush.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/scrawl/images/delimg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/scrawl/images/delimgH.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/scrawl/images/empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/scrawl/images/emptyH.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/scrawl/images/eraser.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/scrawl/images/redo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/scrawl/images/redoH.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/scrawl/images/scale.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/scrawl/images/scaleH.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/scrawl/images/size.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/scrawl/images/undo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/scrawl/images/undoH.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/table/dragicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/template/images/bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/template/images/pre0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/template/images/pre1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/template/images/pre2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/template/images/pre3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/template/images/pre4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/video/images/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/video/images/center_focus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/video/images/file-icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/video/images/file-icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/video/images/icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/video/images/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/video/images/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/video/images/left_focus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/video/images/none_focus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/video/images/progress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/video/images/right_focus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/video/images/success.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/video/images/success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/wordimage/fClipboard_ueditor.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/wordimage/imageUploader.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/jsp/lib/commons-codec-1.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/jsp/lib/commons-fileupload-1.3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/jsp/lib/commons-io-2.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/jsp/lib/json.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/jsp/lib/ueditor-1.1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/lang/en/images/addimage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/lang/en/images/alldeletebtnhoverskin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/lang/en/images/alldeletebtnupskin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/lang/en/images/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/lang/en/images/button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/lang/en/images/copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/lang/en/images/deletedisable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/lang/en/images/deleteenable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/lang/en/images/listbackground.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/lang/en/images/localimage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/lang/en/images/music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/lang/en/images/rotateleftdisable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/lang/en/images/rotateleftenable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/lang/en/images/rotaterightdisable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/lang/en/images/rotaterightenable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/lang/en/images/upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/lang/zh-cn/images/copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/lang/zh-cn/images/localimage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/lang/zh-cn/images/music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/lang/zh-cn/images/upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/net/Bin/Newtonsoft.Json.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/net/Bin/Newtonsoft.Json.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/anchor.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/arrow_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/arrow_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/button-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/cancelbutton.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/charts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/cursor_h.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/cursor_h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/cursor_v.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/cursor_v.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/dialog-title-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/filescan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/highlighted.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/icons-all.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/loaderror.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/lock.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/neweditor-tab-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/pagebreak.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/scale.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/sortable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/spacer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/sparator_v.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/table-cell-align.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/tangram-colorpicker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/toolbar_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/unhighlighted.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/videologo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/word.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/images/wordpaste.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/dist/chart/bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/dist/chart/chord.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/dist/chart/eventRiver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/dist/chart/force.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/dist/chart/funnel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/dist/chart/gauge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/dist/chart/heatmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/dist/chart/k.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/dist/chart/line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/dist/chart/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/dist/chart/pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/dist/chart/radar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/dist/chart/scatter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/dist/chart/tree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/dist/chart/treemap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/dist/chart/venn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/dist/chart/wordCloud.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/dist/echarts-all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/dist/echarts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/echarts-optimize-conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/source/chart/bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/source/chart/chord.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/source/chart/eventRiver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/source/chart/force.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/source/chart/funnel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/source/chart/gauge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/source/chart/heatmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/source/chart/k.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/source/chart/line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/source/chart/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/source/chart/pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/source/chart/radar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/source/chart/scatter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/source/chart/tree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/source/chart/treemap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/source/chart/venn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/source/chart/wordCloud.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/source/echarts-all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/build/source/echarts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/asset/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/axis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/bar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/bar1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/bar10.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/bar11.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/bar12.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/bar13.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/bar14.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/bar15.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/bar2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/bar3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/bar4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/bar5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/bar6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/bar7.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/bar8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/bar9.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/chord.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/chord1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/chord2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/chord3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/chord4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/data/migration.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/data/webkit-dep.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/dataRange.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/dataRange1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/dataRange2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/dataZoom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/dataZoom1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/dataZoom2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/dynamicLineBar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/dynamicPieRadar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/dynamicScatterK.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/event.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/eventRiver1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/eventRiver2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/eventRiver2_data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/force.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/force1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/force2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/force3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/force4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/funnel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/funnel1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/funnel2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/funnel3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/funnel4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/gauge.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/gauge1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/gauge2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/gauge3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/gauge4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/gauge5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/GUANGZHOU_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/HK_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/UK_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/USA_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/110100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/120100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/130100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/130200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/130300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/130400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/130500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/130600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/130700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/130800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/130900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/131000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/131100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/140100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/140200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/140300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/140400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/140500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/140600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/140700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/140800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/140900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/141000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/141100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/150100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/150200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/150300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/150400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/150500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/150600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/150700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/150800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/150900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/152200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/152500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/152900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/210100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/210200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/210300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/210400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/210500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/210600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/210700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/210800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/210900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/211000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/211100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/211200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/211300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/211400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/220100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/220200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/220300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/220400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/220500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/220600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/220700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/220800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/222400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/230100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/230200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/230300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/230400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/230500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/230600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/230700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/230800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/230900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/231000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/231100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/231200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/232700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/310100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/310200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/320100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/320200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/320300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/320400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/320500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/320600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/320700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/320800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/320900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/321000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/321100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/321200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/321300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/330100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/330200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/330300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/330400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/330500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/330600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/330700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/330800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/330900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/331000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/331100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/340100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/340200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/340300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/340400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/340500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/340600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/340700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/340800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/341000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/341100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/341200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/341300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/341500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/341600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/341700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/341800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/350100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/350200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/350300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/350400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/350500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/350600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/350700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/350800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/350900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/360100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/360200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/360300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/360400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/360500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/360600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/360700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/360800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/360900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/361000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/361100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/370100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/370200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/370300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/370400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/370500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/370600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/370700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/370800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/370900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/371000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/371100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/371200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/371300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/371400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/371500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/371600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/371700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/410100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/410200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/410300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/410400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/410500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/410600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/410700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/410800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/410900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/411000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/411100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/411200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/411300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/411400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/411500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/411600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/411700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/420100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/420200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/420300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/420500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/420600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/420700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/420800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/420900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/421000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/421100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/421200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/421300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/422800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/429000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/430100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/430200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/430300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/430400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/430500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/430600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/430700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/430800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/430900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/431000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/431100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/431200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/431300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/433100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/440100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/440200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/440300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/440400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/440500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/440600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/440700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/440800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/440900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/441200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/441300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/441400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/441500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/441600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/441700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/441800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/441900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/442000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/445100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/445200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/445300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/450100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/450200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/450300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/450400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/450500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/450600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/450700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/450800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/450900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/451000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/451100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/451200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/451300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/451400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/460100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/460200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/460300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/469000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/500100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/510100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/510300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/510400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/510500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/510600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/510700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/510800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/510900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/511000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/511100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/511300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/511400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/511500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/511600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/511700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/511800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/511900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/512000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/513200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/513300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/513400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/520100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/520200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/520300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/520400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/522200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/522300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/522400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/522600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/522700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/530100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/530300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/530400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/530500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/530600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/530700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/530800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/530900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/532300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/532500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/532600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/532800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/532900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/533100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/533300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/533400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/540100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/542100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/542200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/542300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/542400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/542500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/542600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/610100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/610200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/610300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/610400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/610500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/610600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/610700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/610800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/610900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/611000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/620100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/620200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/620300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/620400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/620500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/620600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/620700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/620800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/620900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/621000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/621100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/621200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/622900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/623000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/630100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/632100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/632200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/632300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/632500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/632600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/632700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/632800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/640100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/640200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/640300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/640400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/640500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/650100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/650200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/652100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/652200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/652300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/652700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/652800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/652900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/653000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/653100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/653200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/654000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/654200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/654300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/659000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/710000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/810100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/820000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/china-main-city/china-main-city-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/geoJson/continent_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/heatmap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/heatmap2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/heatmap_map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/k.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/k1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/lasagna.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/legend.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/line.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/line1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/line10.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/line11.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/line2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/line3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/line4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/line5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/line6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/line7.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/line8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/line9.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/loading.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/map1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/map10.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/map11.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/map12.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/map13.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/map14.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/map15.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/map16.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/map17.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/map18.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/map19.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/map2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/map20.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/map21.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/map22.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/map3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/map4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/map5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/map6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/map7.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/map8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/map9.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/middle-east-pre.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/middle-east.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/mix1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/mix10.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/mix11.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/mix12.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/mix2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/mix3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/mix4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/mix5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/mix6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/mix7.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/mix8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/mix9.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/pie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/pie1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/pie2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/pie3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/pie4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/pie5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/pie6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/pie7.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/radar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/radar1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/radar2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/radar3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/scatter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/scatter1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/scatter2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/scatter3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/scatter4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/scatter5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/scatter6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/svg/baidu-building.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/svg/body-female.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/svg/body-male.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/svg/football.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/theme.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/theme/blue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/theme/dark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/theme/default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/theme/gray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/theme/green.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/theme/helianthus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/theme/infographic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/theme/macarons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/theme/macarons2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/theme/mint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/theme/red.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/theme/roma.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/theme/sakura.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/theme/shine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/themeDesigner.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/timelineOption.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/toolbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/tooltip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/topic/10-me-china/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/topic/10-me-china/js/data-a-china.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/topic/10-me-china/js/data-china.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/topic/10-me-china/js/data-formatter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/topic/10-me-china/js/djws.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/topic/10-me-china/js/option0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/topic/10-me-china/js/option1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/topic/10-me-china/js/option2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/topic/10-me-china/js/option3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/topic/24-population-china/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/topic/24-population-china/js/data-people.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/topic/aqi-china/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/topic/aqi-china/js/china_city_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/topic/aqi-china/js/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/topic/aqi-china/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/topic/aqi-china/js/option0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/topic/aqi-china/js/option1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/topic/aqi-china/js/option2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/topic/aqi-china/js/option3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/tree1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/tree2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/tree3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/tree4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/tree5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/treemap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/treemap1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/treemap2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/treemap3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/venn.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/venn1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/webkit-dep-pre.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/webkit-dep.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/webkit-dep2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/wordCloud.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/wormhole.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/www/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/www/js/chart/bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/www/js/chart/chord.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/www/js/chart/eventRiver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/www/js/chart/force.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/www/js/chart/funnel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/www/js/chart/gauge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/www/js/chart/heatmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/www/js/chart/k.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/www/js/chart/line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/www/js/chart/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/www/js/chart/pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/www/js/chart/radar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/www/js/chart/scatter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/www/js/chart/tree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/www/js/chart/treemap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/www/js/chart/venn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/www/js/chart/wordCloud.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/www/js/echarts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/www2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/example/www2/js/echarts-all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/echarts-slide.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/print/paper.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/print/pdf.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/reveal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/reveal.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/theme/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/theme/beige.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/theme/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/theme/moon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/theme/night.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/theme/serif.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/theme/simple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/theme/sky.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/theme/solarized.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/theme/source/beige.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/theme/source/default.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/theme/source/moon.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/theme/source/night.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/theme/source/serif.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/theme/source/simple.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/theme/source/sky.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/theme/source/solarized.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/theme/template/mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/theme/template/settings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/theme/template/theme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/css/why-echarts-m.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/js/dist/chart/bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/js/dist/chart/chord.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/js/dist/chart/eventRiver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/js/dist/chart/force.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/js/dist/chart/funnel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/js/dist/chart/gauge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/js/dist/chart/k.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/js/dist/chart/line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/js/dist/chart/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/js/dist/chart/pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/js/dist/chart/radar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/js/dist/chart/scatter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/js/dist/echarts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/js/dist/util/mapData/geoJson/china_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/js/dist/util/mapData/geoJson/world_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/js/reveal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/js/reveal.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/js/timelineOption.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/js/why-echarts-m-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/js/why-echarts-m.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/js/whyEcharts-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/js/whyEcharts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/lib/css/zenburn.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/lib/font/league_gothic-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/lib/font/league_gothic_license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/lib/js/classList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/lib/js/head.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/lib/js/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/plugin/highlight/highlight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/plugin/markdown/example.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/plugin/markdown/example.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/plugin/markdown/markdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/plugin/markdown/marked.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/plugin/multiplex/client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/plugin/multiplex/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/plugin/multiplex/master.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/plugin/notes-server/client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/plugin/notes-server/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/plugin/notes-server/notes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/plugin/notes/notes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/plugin/notes/notes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/plugin/postmessage/example.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/plugin/postmessage/postmessage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/plugin/print-pdf/print-pdf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/plugin/remotes/remotes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/plugin/search/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/plugin/zoom-js/zoom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/whyEcharts-en.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/whyEcharts-m-en.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/whyEcharts-m.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/doc/slide/whyEcharts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/extension/BMap/doc/BMap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/extension/BMap/doc/BMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/extension/BMap/doc/doc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/extension/BMap/doc/example.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/extension/BMap/doc/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/extension/BMap/src/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/extension/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/chart/bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/chart/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/chart/chord.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/chart/eventRiver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/chart/force.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/chart/funnel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/chart/gauge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/chart/heatmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/chart/island.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/chart/k.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/chart/line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/chart/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/chart/pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/chart/radar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/chart/scatter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/chart/tree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/chart/treemap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/chart/venn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/chart/wordCloud.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/component/axis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/component/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/component/categoryAxis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/component/dataRange.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/component/dataView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/component/dataZoom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/component/grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/component/legend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/component/polar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/component/roamController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/component/timeline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/component/title.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/component/toolbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/component/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/component/valueAxis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/data/Graph.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/data/KDTree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/data/Tree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/data/quickSelect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/echarts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/layer/heatmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/layout/Chord.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/layout/EdgeBundling.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/layout/Force.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/layout/Tree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/layout/TreeMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/layout/WordCloud.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/layout/WordCloudRectZero.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/layout/eventRiver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/layout/forceLayoutWorker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/theme/default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/theme/infographic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/theme/macarons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/accMath.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/coordinates.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/ecAnimation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/ecData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/ecEffect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/ecQuery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/kwargs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoCoord.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/an_hui_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/ao_men_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/bei_jing_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/china_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/chong_qing_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/fu_jian_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/gan_su_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/guang_dong_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/guang_xi_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/gui_zhou_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/hai_nan_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/he_bei_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/he_nan_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/hei_long_jiang_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/hu_bei_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/hu_nan_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/ji_lin_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/jiang_su_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/jiang_xi_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/liao_ning_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/nei_meng_gu_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/ning_xia_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/qing_hai_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/shan_dong_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/shan_xi_1_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/shan_xi_2_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/shang_hai_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/si_chuan_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/tai_wan_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/tian_jin_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/world_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/xi_zang_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/xiang_gang_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/xin_jiang_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/yun_nan_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/geoJson/zhe_jiang_geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/params.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/encode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/an_hui_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/ao_men_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/bei_jing_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/china_city.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/china_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/chong_qing_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/fu_jian_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/gan_su_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/guang_dong_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/guang_xi_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/gui_zhou_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/hai_nan_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/he_bei_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/he_nan_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/hei_long_jiang_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/hu_bei_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/hu_nan_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/ji_lin_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/jiang_su_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/jiang_xi_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/liao_ning_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/nei_meng_gu_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/ning_xia_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/qing_hai_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/shan_dong_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/shan_xi_1_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/shan_xi_2_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/shang_hai_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/si_chuan_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/tai_wan_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/tian_jin_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/world_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/xi_zang_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/xiang_gang_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/xin_jiang_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/yun_nan_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/rawData/geoJson/zhe_jiang_geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/mapData/textFixed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/ndarray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/projection/albers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/projection/mercator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/projection/normal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/projection/svg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/shape/Candle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/shape/Chain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/shape/Cross.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/shape/GaugePointer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/shape/HalfSmoothPolygon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/shape/HandlePolygon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/shape/Icon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/shape/MarkLine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/shape/Ribbon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/shape/Symbol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/shape/normalIsCover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/smartLogSteps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/src/util/smartSteps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/test/allchart/all.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/test/allchart/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/test/heatmap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/test/kdtree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/test/performance/option.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/test/performance/p.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/echarts/2.2.7/test/performance/p.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/laypage/1.2/laypage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/laypage/1.2/skin/laypage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/stickUp/stickUp.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/asp/ASPJson.class.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/asp/MultiformProcessor.class.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/asp/PathFormatter.class.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/asp/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/asp/Uploader.Class.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/asp/action_config.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/asp/action_crawler.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/asp/action_list.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/asp/action_upload.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/asp/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/asp/config_loader.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/asp/controller.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/anchor/anchor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/attachment.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/attachment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/attachment/attachment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/background/background.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/charts/chart.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/charts/charts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/charts/charts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/charts/charts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/emotion/emotion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/emotion/emotion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/emotion/emotion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/gmap/gmap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/help/help.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/help/help.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/help/help.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/image/image.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/image/image.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/image/image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/internal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/link/link.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/map/map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/map/show.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/music/music.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/music/music.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/music/music.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/preview/preview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/scrawl/scrawl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/scrawl/scrawl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/scrawl/scrawl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/spechars/spechars.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/spechars/spechars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/table/edittable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/table/edittable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/table/edittable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/table/edittd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/table/edittip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/template/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/template/template.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/template/template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/template/template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/video/video.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/video/video.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/video/video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/webapp/webapp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/wordimage/tangram.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/wordimage/wordimage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/dialogs/wordimage/wordimage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/jsp/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/jsp/controller.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/ActionEnter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/ConfigManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/Encoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/PathFormat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/define/ActionMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/define/ActionState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/define/AppInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/define/BaseState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/define/FileType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/define/MIMEType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/define/MultiState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/define/State.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/hunter/FileManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/hunter/ImageHunter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/upload/Base64Uploader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/upload/BinaryUploader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/upload/StorageManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/upload/Uploader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/lang/en/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/lang/zh-cn/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/net/App_Code/Config.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/net/App_Code/ConfigHandler.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/net/App_Code/CrawlerHandler.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/net/App_Code/Handler.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/net/App_Code/ListFileHandler.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/net/App_Code/NotSupportedHandler.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/net/App_Code/PathFormater.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/net/App_Code/UploadHandler.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/net/Bin/Newtonsoft.Json.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/net/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/net/Web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/net/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/net/controller.ashx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/net/net.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/php/Uploader.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/php/action_crawler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/php/action_list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/php/action_upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/php/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/php/controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/css/ueditor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/css/ueditor.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/default/dialogbase.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/themes/iframe.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/ueditor.all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/ueditor.all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/ueditor.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/ueditor.parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/hui/lib/ueditor/1.4.3/ueditor.parse.min.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/static/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab9dde23-7925-418c-9c75-51f71ae15e40" name="Default" comment="" />
+      <created>1515061563906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515061563906</updated>
+      <workItem from="1515061572150" duration="1696000" />
+    </task>
+    <task id="LOCAL-00001" summary="面试题管理系统，包含前端展示界面和后台管理部分">
+      <created>1515061733704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1515061733704</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加 .htaccess 文件。">
+      <created>1515062360698</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1515062360698</updated>
+    </task>
+    <task id="LOCAL-00003" summary="添加 .idea 文件夹内容">
+      <created>1515062789481</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1515062789481</updated>
+    </task>
+    <task id="LOCAL-00004" summary="项目内容全部删除， 准备重新上传。">
+      <created>1515063133551</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1515063133551</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1696000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553648" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="面试题管理系统，包含前端展示界面和后台管理部分" />
+    <MESSAGE value="添加 .htaccess 文件。" />
+    <MESSAGE value="添加 .idea 文件夹内容" />
+    <MESSAGE value="项目内容全部删除， 准备重新上传。" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目内容全部删除， 准备重新上传。" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/phpunit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/static/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
