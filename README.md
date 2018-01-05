@@ -21,6 +21,8 @@ require __DIR__ . '/thinkphp/start.php';
     ],
 ```
 
+* 在 `/application/database.php` 文件中填写自己的MySQL服务器连接参数
+
 
 ### 本地测试环境
 * 为了保持和公网同样的测试环境, 本地测试环境不使用 Apache 虚拟主机
